@@ -5,7 +5,7 @@ public class Main {
     Product p = new Product();
     int result1 = p.product(2,3);
     int result2 = p.product(2,5,7);
-    double result3 = p.product(2.5,3.5)      
+    double result3 = p.product(2.5,3.5);
   }
 }
 class Product{
